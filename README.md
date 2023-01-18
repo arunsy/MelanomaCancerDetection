@@ -40,7 +40,7 @@
 
 
 ## Contact
-Created by [@arung0](https://github.com/arung0) - feel free to contact me!
+Created by [@arunsy](https://github.com/arunsy) - feel free to contact me!
 
 
 <!-- Optional -->
